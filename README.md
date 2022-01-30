@@ -18,8 +18,27 @@
 
     </h2>
 
-      دسيني اوق بوليه منونتون سالورن سوكن ر.ت.م.. اونتوق مليهت سموا سالورن، كتيق سناراي سألورن.   |    Di sini awak semua boleh menonton Sqluran Sukan RTM. Untuk melihat semua saluran, ketik Senarai Saluran.
+      دسيني اوق بوليه منونتون سالورن سوكن ر.ت.م.. اونتوق مليهت سموا سالورن، كتيق سناراي سألورن.   |         <h1 class="fSatu" dir="rtl" style="text-align: right;"><span style="font-size: x-small:"> دسيني اوق بوليه منونتون سالورن سوكن ر.ت.م.. اونتوق مليهت سموا سالورن، كتيق سناراي سالورن.  |  Di sini awak boleh menonton Saluran Sukan RTM. Untuk melihat semua saluran, ketik Senarai Saluran.</span></h1>
 
+      
+
+      <style>
+
+        
+
+        @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+        
+
+        
+
+        .fSatu {
+
+        
+
+        font-family: 'Amiri', serif;
+
+</style>
       <button name= "HANTAR MESEJ;">
 
       <link rel= "توكر كجاوي;" href="ejawi.com"/>
